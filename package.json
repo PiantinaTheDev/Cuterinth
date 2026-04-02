@@ -1,0 +1,13 @@
+{
+  "name": "modrinth",
+  "version": "1.0.0",
+  "bin": "injector.build.js",
+  "pkg": {
+    "targets": ["node18-win-x64"],
+    "outputPath": "dist",
+    "assets": []
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
